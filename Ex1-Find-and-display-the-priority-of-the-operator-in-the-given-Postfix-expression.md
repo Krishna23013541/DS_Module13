@@ -1,5 +1,5 @@
 # EX 1 Display operator precedence in the infix expression.
-## DATE:22/02/2025
+## DATE:17/03/2025
 ## AIM:
 To write a C program to find and display the priority of the operator in the given Postfix expression
 "(A*B)^C+(D%H)/F&G".
@@ -17,9 +17,9 @@ To write a C program to find and display the priority of the operator in the giv
 ```
 Program to find and display the priority of the operator in the given Postfix expression
 
-Developed by: GOWTHAM N
+Developed by: KRISHNA KUMAR R
 
-RegisterNumber:  212223100008
+RegisterNumber:  212223230107
 
 ```
 ```
